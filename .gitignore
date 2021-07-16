@@ -6,6 +6,7 @@ migrations
 /.idea
 .idea/
 *.pyc/
+info.txt
 # Django #
 *.log
 *.pot
